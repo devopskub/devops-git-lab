@@ -1,0 +1,3 @@
+Application:DevOps Demo
+Enviroment:Developer
+Deployment: Automated
