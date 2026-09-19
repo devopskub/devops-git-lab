@@ -1,5 +1,0 @@
-Web Server
-Application Server
-Database Server
-catche Server
-
